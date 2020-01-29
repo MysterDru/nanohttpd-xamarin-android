@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nanohttpd-sample", "nanohttpd-sample\nanohttpd-sample.csproj", "{F5269E19-CA76-4826-8495-48DF8F912A74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nanohttpd", "nanohttpd\nanohttpd.csproj", "{4C345F8B-5445-491D-AEC6-8018DDBEAF2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5269E19-CA76-4826-8495-48DF8F912A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5269E19-CA76-4826-8495-48DF8F912A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5269E19-CA76-4826-8495-48DF8F912A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5269E19-CA76-4826-8495-48DF8F912A74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C345F8B-5445-491D-AEC6-8018DDBEAF2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C345F8B-5445-491D-AEC6-8018DDBEAF2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C345F8B-5445-491D-AEC6-8018DDBEAF2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C345F8B-5445-491D-AEC6-8018DDBEAF2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
