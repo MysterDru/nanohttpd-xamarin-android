@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nanohttpd-sample", "nanohttpd-sample\nanohttpd-sample.csproj", "{F5269E19-CA76-4826-8495-48DF8F912A74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nanohttpd", "nanohttpd\nanohttpd.csproj", "{4C345F8B-5445-491D-AEC6-8018DDBEAF2A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nanohttpd-binding", "nanohttpd-binding\nanohttpd-binding.csproj", "{4C345F8B-5445-491D-AEC6-8018DDBEAF2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

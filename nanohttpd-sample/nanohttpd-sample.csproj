@@ -110,9 +110,9 @@
     <PackageReference Include="Xamarin.Essentials" Version="1.2.0" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\nanohttpd\nanohttpd.csproj">
+    <ProjectReference Include="..\nanohttpd-binding\nanohttpd-binding.csproj">
       <Project>{4C345F8B-5445-491D-AEC6-8018DDBEAF2A}</Project>
-      <Name>nanohttpd</Name>
+      <Name>nanohttpd-binding</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
